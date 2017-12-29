@@ -1,4 +1,4 @@
-FROM linuxserver/deluge:25
+FROM linuxserver/deluge:99
 MAINTAINER Jean Blanchard <jean@blanchard.io>
 
 # Install sftp
